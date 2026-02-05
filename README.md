@@ -2,6 +2,8 @@
 
 This repository contains the official implementation of **OC-SODAgent** and the associated **OC-SOD Dataset** generation pipeline.
 
+> **Note: The OC-SOD Dataset is coming soon.**
+
 ## 📋 Project Overview
 
 The **OC-SODAgent** (Object-Centric Salient Object Detection Agent) is an iterative framework that:
